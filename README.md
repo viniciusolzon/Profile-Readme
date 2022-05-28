@@ -22,6 +22,4 @@
   
 Here goes contact information!
  
-(https://github.com/viniciusolzon/viniciusolzon/blob/output/github-contribution-grid-snake.svg)   
-</div>
-
+  <a href="https://www.instagram.com/vinicius.olzon/">
