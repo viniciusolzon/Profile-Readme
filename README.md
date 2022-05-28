@@ -22,6 +22,6 @@
   
 Here goes contact information!
  
-![Snake animation](https://github.com/viniciusolzon/viniciusolzon/blob/output/github-contribution-grid-snake.svg)   
+(https://github.com/viniciusolzon/viniciusolzon/blob/output/github-contribution-grid-snake.svg)   
 </div>
 
