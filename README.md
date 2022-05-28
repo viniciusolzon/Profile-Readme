@@ -2,7 +2,7 @@
 
 ## About me:
 - :computer: I'm currently studying Data Science and Artificial Intelligence at UFPB
-- :books: I love challenges and new things
+- :books: Open to new challenges and opportunities
 - :open_book: Currently practicing C++ and Data Science skills
 
 ## Coding languages to this day:
