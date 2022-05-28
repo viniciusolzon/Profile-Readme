@@ -22,4 +22,4 @@
   
 Here goes contact information!
  
-  <a href="https://www.instagram.com/vinicius.olzon/">
+  <a href="https://www.instagram.com/vinicius.olzon">
