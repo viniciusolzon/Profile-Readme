@@ -14,8 +14,8 @@
 ## Stats:
 <div>
   <a href="https://github.com/viniciusolzon">
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=viniciusolzon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusolzon&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=viniciusolzon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusolzon&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
 ## Contact me:
