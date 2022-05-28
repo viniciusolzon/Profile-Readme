@@ -1,7 +1,7 @@
 # Hello! :smile:  I'm Vinicius Freitas
 
 ## About me:
-- :computer: I'm currently studying Data Science and Artificial Intelligence at UFPB
+- :computer: Studying Data Science and Artificial Intelligence at UFPB
 - :books: Open to new challenges and opportunities
 - :open_book: Currently practicing C++ and Data Science skills
 
