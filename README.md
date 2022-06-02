@@ -5,7 +5,7 @@
 - :books: Open to new challenges and opportunities
 - :open_book: Currently practicing C++ and Data Science skills
 
-## Coding languages to this day:
+## Coding skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Ba-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ba-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
