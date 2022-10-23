@@ -2,8 +2,8 @@
 
 ## About me:
 - :computer: Studying Data Science and Artificial Intelligence at UFPB
-- :books: Open to new challenges and opportunities
-- :open_book: Currently practicing C++ and Data Science skills
+- :books: Looking forward to new challenges and opportunities
+- :open_book: Currently practicing optimization and data science skills
 
 ## Coding skills:
 <div style="display: inline_block"><br>
