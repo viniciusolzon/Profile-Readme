@@ -1,4 +1,4 @@
-# Hello! :smile:  I'm Vinicius Freitas
+# Hello! I'm Vinicius Freitas
 
 ## About me:
 - :computer: Studying Data Science and Artificial Intelligence at UFPB
