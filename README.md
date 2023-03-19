@@ -3,7 +3,7 @@
 ## About me:
 - :computer: Studying Data Science and Artificial Intelligence at UFPB
 - :books: Looking forward to new challenges and opportunities
-- :open_book: Currently practicing optimization and data science skills
+- :open_book: Interested in predictive and prescriptive analytics and optimization problems
 
 ## Coding skills:
 <div style="display: inline_block"><br>
