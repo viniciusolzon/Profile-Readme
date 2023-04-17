@@ -1,7 +1,7 @@
 # Hello!
 
 ## About me:
-- :computer: Studying Data Science and Artificial Intelligence at UFPB
+- :computer: Studying Data Science and Artificial Intelligence at Federal University of Paraíba
 - Looking forward to new challenges and opportunities
 - Interested in predictive and prescriptive analytics and optimization problems
 
