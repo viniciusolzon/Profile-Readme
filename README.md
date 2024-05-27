@@ -14,11 +14,8 @@
 </div>
 
 ## Stats:
-<div>
-  <a href="https://github.com/viniciusolzon">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusolzon&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusolzon&hide=scss,jupyter%20notebook&layout=compact&theme=gruvbox_light)
+
 ## Contact me:
  
 <div> 
